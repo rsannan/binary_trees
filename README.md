@@ -1,1 +1,1 @@
-# binary_trees
+# This directory contain binary tree scripts
